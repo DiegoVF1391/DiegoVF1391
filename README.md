@@ -6,11 +6,13 @@
   - [Análisis de datos del clima de Morelia en los últimos 5 años](https://github.com/DiegoVF1391/AnalisisDelClimaDeMorelia)
 - <b>Aplicaciones y/o plataformas web (Laravel, Django, React)</b>
   - [Sistema de servicio social para el Instituto Tecnológico de Morelia](https://github.com/DiegoVF1391/SistemaServicioSocial_ITM)
+  - [Sistema de servicios para una universidad](https://github.com/DiegoVF1391/ServiciosEscolares)
 - <b>Aplicaciones moviles (React Native y Kotlin)</b>
   - [Sistema de servicios para una universidad (Versión móvil con React Native)](https://github.com/DiegoVF1391/ServiciosEscolares_Movil)
   - [Sistema escolar (Versión móvil con Kotlin)](https://github.com/DiegoVF1391/SistemaEscolar_Android)
 - <b>C# (.NET Desktop Applications)</b>
   - [Aplicación escolar para examenes finales](https://github.com/DiegoVF1391/AplicacionEscolar)
+  - [Sistema escolar](https://github.com/DiegoVF1391/SistemaEscolar)
 - <b>Python</b>
   - [Bases de datos distribuidas con PostgreSQL por medio de tokens](https://github.com/DiegoVF1391/BasesDatosDistribuidas)
 
