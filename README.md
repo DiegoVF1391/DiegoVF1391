@@ -8,6 +8,9 @@
   - [Sistema de servicio social para el Instituto Tecnológico de Morelia (Laravel)](https://github.com/DiegoVF1391/SistemaServicioSocial_ITM)
   - [Sistema de servicios para una universidad (Laravel)](https://github.com/DiegoVF1391/ServiciosEscolares)
   - [Plataforma para la obtención de datos médicos mediante OCR y NLP (Django)](https://github.com/DiegoVF1391/hospintel)
+- <b>Inteligencia artificial</b>
+  - [Reconocimiento de 5 flores](https://github.com/DiegoVF1391/reconocimiento-de-flores)
+  - [Juego de Phaser usando aprendizaje automático con Redes Neuronales](https://github.com/DiegoVF1391/redes-neuronales-phaser)
 - <b>Aplicaciones moviles (React Native y Kotlin)</b>
   - [Sistema de servicios para una universidad (Versión móvil con React Native)](https://github.com/DiegoVF1391/ServiciosEscolares_Movil)
   - [Sistema escolar (Versión móvil con Kotlin)](https://github.com/DiegoVF1391/SistemaEscolar_Android)
